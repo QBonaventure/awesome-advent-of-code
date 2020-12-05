@@ -214,6 +214,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### Elixir
 
 *Solutions to AoC in Elixir.*
+* [QBonaventure/advent-of-code-20]
 
 #### Elm
 
